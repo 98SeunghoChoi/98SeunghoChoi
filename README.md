@@ -15,17 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 이름 : 최승호
-# 전공 : 말레이 인도네시아어통번역학과 (Malay-Indonesian translation and interpretation) & GBT(Global Business & Technology)
+# 이름 : 최승호  
+## 전공 : 말레이 인도네시아어통번역학과 (Malay-Indonesian translation and interpretation) & GBT(Global Business & Technology)  
 
-* 뭐라도 적을게
-+ 있어야 하는데
-- 보리 보고 싶다
+** 뭐 써야할지 잘 모르겠음 **
+* 이건 이탤릭체 *
+<u>이건 밑줄 그어진대</u>
 
-1. 마크다운 문법
-2. 이렇게 하면 되나
-3. 잘 모르겠음
-
-'코드블럭'
-
-** 볼드체 **
+~~취소선~~
