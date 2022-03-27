@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 일반 글씨 & **굵은 글씨**
 *이탤릭체래요*
-__밑줄이 왜 안 생기니__
+_밑줄이 왜 안 생기니_
