@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 ### 뭘 써야할지 모르겠어요  
 
 일반 글씨 & **굵은 글씨**
-*이탤릭체래요*
+*이탤릭체래요*  
 _밑줄이 왜 안 생기니_
